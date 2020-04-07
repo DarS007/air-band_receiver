@@ -6,7 +6,8 @@ If you are a maker and enjoy constructing various DIY electronic stuff, you perh
 
 Be aware, however, that the kit is **more difficult to assemble than you might think**. Attached guide summarizes our experience with this DIY air-band receiver and includes some enhancements. 
 
-Download the guide via GitHub (*airband_rec-DarS007_20200405.pdf* file) or directly: https://github.com/DarS007/air-band_receiver/raw/master/airband_rec-DarS007_20200405.pdf
+Download the guide via GitHub (*airband_rec-DarS007_20200407.pdf* file) or directly:
+https://github.com/DarS007/air-band_receiver/raw/master/airband_rec-DarS007_20200407.pdf
 
 Enjoy! Happy building! And don't forget - apart from the radio receiver, you **NEED a decent antenna**!
 
