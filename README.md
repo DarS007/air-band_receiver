@@ -4,7 +4,7 @@
 ![DIY receiver was built](https://github.com/DarS007/air-band_receiver/raw/master/PICTURES/airband_rec-DarS007-PCB-20190323-005.jpg?raw=true | width=800)
 
 2.
-![](./PICTURES/airband_rec-DarS007-PCB-20190323-005.jpg?raw=true | width=800)
+![](./PICTURES/airband_rec-DarS007-PCB-20190323-005.jpg?raw=true|width=800)
 
 3.
 ![](./PICTURES/airband_rec-DarS007-PCB-20190323-005.jpg?raw=true)
