@@ -1,6 +1,6 @@
 # Chinese DIY air-band receiver kit 118-136MHz AM
 
-![DIY receiver was built](https://github.com/DarS007/air-band_receiver/raw/master/PICTURES/airband_rec-DarS007-PCB-20190323-005.jpg | width=800)
+![DIY receiver was built](https://github.com/DarS007/air-band_receiver/raw/master/PICTURES/airband_rec-DarS007-PCB-20190323-005.jpg?raw=true | width=800)
 
 If you are a maker and enjoy constructing various DIY electronic stuff, you perhaps consider building one of air-band receiver kits available in Chinese e-shops. These kits are around 10-15 USD, including PCB and all components (**NE602** mixer, **MC1350** IF amp, **LM358** opamps, etc.). Bargain. And a lot of pleasure (as well as self-education value) from listening to the 118-136MHz AM band not available on commercial radios.
 
